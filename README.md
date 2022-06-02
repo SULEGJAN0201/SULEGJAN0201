@@ -13,4 +13,4 @@ A passionate full stack developer from Sri Lanka
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SULEGJAN0201&count_private=true)
+
