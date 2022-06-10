@@ -18,3 +18,5 @@ A passionate full stack developer from Sri Lanka
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
+
+![](https://activity-graph.herokuapp.com/graph?username=SULEGJAN0201&theme=react-dark)
