@@ -46,3 +46,4 @@ A passionate full stack developer from Sri Lanka
 </p>
 <br/>
 ![](https://activity-graph.herokuapp.com/graph?username=SULEGJAN0201&theme=react-dark)
+![](https://activity-graph.herokuapp.com/graph?username=SULEGJAN0201&theme=react-dark)
