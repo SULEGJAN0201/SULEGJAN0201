@@ -57,5 +57,5 @@ A passionate full stack developer from Sri Lanka
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
   </a>
 </p>
-## Contribution Graph
+
 
