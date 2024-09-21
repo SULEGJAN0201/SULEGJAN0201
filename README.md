@@ -12,8 +12,7 @@ A passionate full stack developer from Sri Lanka
 <a align="center" href="http://www.github.com/SULEGJAN0201"><img src="https://github-readme-stats.vercel.app/api?username=SULEGJAN0201&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=#000000&icon_color=0891b2&bg_color=#ffffff&hide_border=true&show_icons=true" alt="GitHub stats" /></a>
 
 <br>
-<br>
-<br>
+
 
 ![.NeCore](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -22,8 +21,7 @@ A passionate full stack developer from Sri Lanka
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 <br>
 <br>
-<br>
-<br>
+
 <p align="center"> 
  <strong>
    Contribution Graph
