@@ -1,9 +1,8 @@
 
 Hi 👋, I'm Sulegjan
 
-A passionate full stack developer from Sri Lanka
+A passionate software engineer from Sri Lanka
 
-🌱 I’m currently learning **ASP DOT NET CORE ,REACT JS,MERN**
 
 📝 I  write articles on [https://medium.com/@sulegjant0201](https://medium.com/@sulegjant0201)
 
