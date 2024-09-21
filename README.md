@@ -32,8 +32,6 @@ A passionate full stack developer from Sri Lanka
 
 ![Sulegjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SULEGJAN0201&theme=nord)
 
-![](https://activity-graph.herokuapp.com/graph?username=SULEGJAN0201&theme=react-dark)
-
 <p align="center"> 
  <strong>
   Professional skills
