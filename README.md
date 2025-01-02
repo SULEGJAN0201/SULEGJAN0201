@@ -2,6 +2,7 @@
 Hi 👋, I'm Sulegjan
 
 A passionate software engineer from Sri Lanka
+- <picture><img src="https://komarev.com/ghpvc/?username=SULEGJAN0201" alt="" /></picture>
 
 
 📝 I  write articles on [https://medium.com/@sulegjant0201](https://medium.com/@sulegjant0201)
