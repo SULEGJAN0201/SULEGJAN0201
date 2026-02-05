@@ -14,7 +14,7 @@
 
 I'm a passionate **Software Engineer** specializing in building scalable web applications using **.NET Core**, **Angular**, and **React**. With experience in developing microservices architectures and RESTful APIs, I focus on creating efficient, maintainable, and user-centric solutions.
 
-- 🔭 Currently working as **Software Engineer** at **PacificKode (Pvt) Ltd**
+- 🔭 Currently working as **Senior Software Engineer** at **IITC Global (Pvt) Ltd**
 - 🎓 BSc. (Hons) Information Technology graduate from **University of Moratuwa** (CGPA: 3.50/4.20)
 - 💼 Experienced in developing enterprise applications for clients including Keells
 - 🌱 Continuously learning and exploring new technologies in the .NET ecosystem
